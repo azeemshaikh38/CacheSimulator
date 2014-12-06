@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 #include <cstdio>
-#include "typedef.h"
+#include "../include/typedef.h"
 
 #define CACHE_SIZE 8192
 #define BLOCK_SIZE 16
