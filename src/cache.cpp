@@ -1,5 +1,5 @@
 #include <iostream>
-#include "typedef.h"
+#include "../include/typedef.h"
 using namespace std;
 
 
