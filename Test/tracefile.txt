@@ -1,0 +1,10 @@
+0 bc74
+1 bac8
+0 bc78
+0 bc7c
+1 fff0
+0 bc80
+0 bc84
+0 bc88
+0 bc8c
+0 bc90
